@@ -12,7 +12,7 @@ public class Test {
 	public static void main(String[] args) throws IOException {
 		Home hm = new Home();
 		while(true) {
-			System.out.println("Please select below options / ");
+			System.out.println("Please select below options _ ");
 			System.out.println("1.Bank");
 			System.out.println("2.Calculator");
 
